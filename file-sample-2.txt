@@ -1,3 +1,5 @@
 file-2
 untuk test commit 2
+konflik ini dibuat oleh user budmulO
+
 dari user lain menambahkan baris ini
